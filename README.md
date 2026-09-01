@@ -21,4 +21,3 @@ M <Address>, 6
 L <Address>, 2
 S <Address>, 9
 ```
-
